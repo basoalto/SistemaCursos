@@ -1,0 +1,109 @@
+Index,username,password,firstname,lastname,email,institución,course1,role1,profile_field_RUT
+0,178001434,1780,Sandra,Arias,sherreraarias00@gmail.com,Cosam París,['Urgencias Pre Hospitalarias'],5,17.800.143-4
+1,150687756,1506,Jose Reinaldo,Mora Ferrada,dr.mora.jose@gmail.com,Hah,"['Urgencias Pre Hospitalarias', 'Liderazgo', 'Comunicación Efectiva']",5,15.068.775-6
+2,150040884,1500,Cristian David,Valenzuela,cristian.calvito@gmail.com,Samu Tarapaca,['Urgencias Pre Hospitalarias'],5,15.004.088-4
+4,177983764,1779,Yessica Del Carmen,Aedo Araya,yessikaedo.a@gmail.com,Cosam Allende,"['Técnicas De Redacción Y Ortografía', 'Urgencias Pre Hospitalarias', 'Comunicación Efectiva', 'Gestión Del Desempeño']",5,17.798.376-4
+6,179131390,1791,Judith Eliset,Álvarez Paillacan,eliset23alvarez@gmail.com,Ssi Cosam Allende,['Urgencias Pre Hospitalarias'],5,17.913.139-0
+7,138730433,1387,Wuanner Esteban,Paez Paez,capa.esteban@gmail.com,Samu,['Urgencias Pre Hospitalarias'],5,13.873.043-3
+8,150123348,1501,Jonathan,Garviso Pizarro,jonathhan_chile@hotmail.com,Samu Tarapaca,"['Urgencias Pre Hospitalarias', 'Liderazgo']",5,15.012.334-8
+11,109262056,1092,Solange Yolanda,Flores Nuñez,solange.nunez79@outlook.com,Samu,"['Técnicas De Redacción Y Ortografía', 'Urgencias Pre Hospitalarias', 'Liderazgo', 'Comunicación Efectiva', 'Gestión Del Desempeño', 'Liderazgo Dirigencial Y Gobernanza', 'Normas En Materia De Gestión Y Desarrollo De Personas']",5,10.926.205-6
+12,150042917,1500,Vanesa Elizabeth,Godoy Pizarro,zeila_egp@hotmail.com,Samu,['Urgencias Pre Hospitalarias'],5,15.004.291-7
+13,147456387,1474,Fanny Patricia,Gomezcoello Salinas,gomezcoello@gmail.com,Servicio De Salud Iquique. Depto Redes Hospitalarias.,"['Urgencias Pre Hospitalarias', 'Liderazgo', 'Comunicación Efectiva', 'Liderazgo Dirigencial Y Gobernanza']",5,14.745.638-7
+14,138669459,1386,Mario,Delucchi,viajero_150@hotmail.com,Ssi,"['Urgencias Pre Hospitalarias', 'Gestión Del Desempeño', 'Normas En Materia De Gestión Y Desarrollo De Personas']",5,13.866.945-9
+15,145000882,1450,Paulo Andres,Vergara Allendes,paulo.vergara.allendes@gmail.com,Samu Tarapaca,"['Urgencias Pre Hospitalarias', 'Liderazgo', 'Comunicación Efectiva', 'Gestión Del Desempeño', 'Liderazgo Dirigencial Y Gobernanza', 'Normas En Materia De Gestión Y Desarrollo De Personas']",5,14.500.088-2
+16,165933648,1659,Cristian Andres,Marinkovic Chamorro,marito.star@hotmail.com,Samu,"['Urgencias Pre Hospitalarias', 'Liderazgo', 'Liderazgo Dirigencial Y Gobernanza']",5,16.593.364-8
+17,122124452,1221,María Eugenia,Berríos Pizarro,meugeniaberrios@hotmail.com,Servicio De Salud Iquique,"['Urgencias Pre Hospitalarias', 'Liderazgo', 'Gestión Del Desempeño', 'Liderazgo Dirigencial Y Gobernanza', 'Normas En Materia De Gestión Y Desarrollo De Personas']",5,12.212.445-2
+20,180656553,1806,Jeniffer Lisset,Quijada Tamarín,looky.mat@gmail.com,Cesfam Videla,"['Urgencias Pre Hospitalarias', 'Liderazgo', 'Gestión Del Desempeño', 'Liderazgo Dirigencial Y Gobernanza', 'Normas En Materia De Gestión Y Desarrollo De Personas']",5,18.065.655-3
+22,166194717,1661,Débora Natalia Andrea,Valdés Solar,deboravaldes.s@gmail.com,Samu Tarapaca,"['Urgencias Pre Hospitalarias', 'Liderazgo', 'Comunicación Efectiva', 'Gestión Del Desempeño', 'Normas En Materia De Gestión Y Desarrollo De Personas']",5,16.619.471-7
+30,162455729,1624,Nelson Oscar,Arce Weber,nelson.arce.weber@gmail.com,Samu,"['Urgencias Pre Hospitalarias', 'Liderazgo']",5,16.245.572-9
+31,113798246,1137,Ximena Del Carmen,Vega López,xvega@live.cl,Cosam Jorge Seguel,['Urgencias Pre Hospitalarias'],5,11.379.824-6
+33,174310505,1743,Rosemarie Michelle,Inostroza Rojas,roseinostroza@hotmail.com,Cosam Jorge Seguel,"['Urgencias Pre Hospitalarias', 'Liderazgo', 'Comunicación Efectiva', 'Gestión Del Desempeño', 'Normas En Materia De Gestión Y Desarrollo De Personas']",5,17.431.050-5
+37,165918886,1659,Gustavo Alonso,Zenteno Barra,gustavo.zentenob@gmail.xom,Cesfam Pedro Pulgar Melgarejo,['Urgencias Pre Hospitalarias'],5,16.591.888-6
+38,182920509,1829,Carla Daniela Millaray,Bermedo Gonzalez,carlabermedo@gmail.com,Cgr Colchane,"['Urgencias Pre Hospitalarias', 'Liderazgo', 'Comunicación Efectiva']",5,18.292.050-9
+53,118234871,1182,Tamara Petrizia,Espinoza Gomez,tamaritapetrizia@gmail.com,Servicio De Salud Iquique,['Urgencias Pre Hospitalarias'],5,11.823.487-1
+56,183718614,1837,Maria Jose,Cortes Fredes,kote5627@gmail.com,Hospital De Alto Hospicio,"['Urgencias Pre Hospitalarias', 'Normas En Materia De Gestión Y Desarrollo De Personas']",5,18.371.861-4
+57,98470077,9847,Daniel Armando,Sanchez Contreras,daniel5ta@hotmail.com,Servicio De Salud,['Urgencias Pre Hospitalarias'],5,9.847.007-7
+66,113798246,1137,Ximena Del Carmen,Vega López,xvega@live.cl,Cosam Jorge Seguel,['Urgencias Pre Hospitalarias'],5,11.379.824-6
+67,182376310,1823,Constanza,Puga Ossa,constanzapugaossa@gmail.com,Farmacia Cosam Ssi,['Urgencias Pre Hospitalarias'],5,18.237.631-0
+68,177985155,1779,Alexandra Carola,Cortes Cayo,alexandraacortes@gmail.com,Servicio De Salud Iquique,"['Técnicas De Redacción Y Ortografía', 'Urgencias Pre Hospitalarias', 'Gestión Del Desempeño']",5,17.798.515-5
+73,182376310,1823,Constanza,Puga Ossa,constanzapugaossa@gmail.com,Farmacia Cosam,['Urgencias Pre Hospitalarias'],5,18.237.631-0
+79,143960463,1439,Catalina,Villegas Ruiz,c2307.villegas@gmail.com,Ceo Alto Hospicio,"['Urgencias Pre Hospitalarias', 'Liderazgo']",5,14.396.046-3
+80,113798246,1137,Ximena Del Carmen,Vega López,xvega@live.cl,Cosam Jorge Seguel,['Urgencias Pre Hospitalarias'],5,11.379.824-6
+81,183718614,1837,Maria Jose,Cortes Fredes,kote5627@gmail.com,Hospital Alto Hospicio,"['Urgencias Pre Hospitalarias', 'Gestión Del Desempeño', 'Liderazgo Dirigencial Y Gobernanza', 'Normas En Materia De Gestión Y Desarrollo De Personas']",5,18.371.861-4
+82,110915217,1109,Jessica,Pezoa Valenzuela,jepevale41@gmail.com,Servicio Salud Iquique,['Urgencias Pre Hospitalarias'],5,11.091.521-7
+83,173151640,1731,Joaquín Arturo,Espinoza Núñez,dr.joaquinespinoza@gmail.com,Cesfam Cirujano Videla,"['Urgencias Pre Hospitalarias', 'Liderazgo', 'Comunicación Efectiva']",5,17.315.164-0
+86,170948971,1709,Nelson Ivain,Campillay Quevedo,nel.campillay@gmail.com,Samu Tarapaca,"['Urgencias Pre Hospitalarias', 'Liderazgo', 'Gestión Del Desempeño', 'Liderazgo Dirigencial Y Gobernanza']",5,17.094.897-1
+87,165936493,1659,Claudia Carolina,Guillen Romero,claudiaguillenromero@gmail.com,Servicio Salud Iquique Samu,['Urgencias Pre Hospitalarias'],5,16.593.649-3
+88,170270096,1702,Génesis,Aliste Romo,genesis.aliste.romo@gmail.com,Samu,['Urgencias Pre Hospitalarias'],5,17.027.009-6
+89,159473511,1594,Juan,Pérez Troncoso,jmttroncoso@gmail.com,Ssmu,['Urgencias Pre Hospitalarias'],5,15.947.351-1
+92,174324611,1743,Jean Dennis Sebastián,Valdivia Peralta,sebastian.valdivia.peralta@gmail.com,Samu,['Urgencias Pre Hospitalarias'],5,17.432.461-1
+93,122124452,1221,Maria Eugenia,Berrios Pizarro,meugeniaberrios@hotmail.com,Samu,"['Urgencias Pre Hospitalarias', 'Normas En Materia De Gestión Y Desarrollo De Personas']",5,12.212.445-2
+94,176542012,1765,Mateo Moises,Mondaca Molina,mateo.mondaca.molina@gmail.com,Samu,"['Urgencias Pre Hospitalarias', 'Liderazgo', 'Comunicación Efectiva', 'Normas En Materia De Gestión Y Desarrollo De Personas']",5,17.654.201-2
+95,182639257,1826,Franco Mauricio,Videla Bisquett,f.videla.bisquett@gmail.com,"Salud Iquique, Samu","['Urgencias Pre Hospitalarias', 'Liderazgo']",5,18.263.925-7
+96,147369140,1473,Paulo César,Angulo Cosneros,cesar.cisneros89@gmail.com,Servicio De Salud Samu,"['Técnicas De Redacción Y Ortografía', 'Urgencias Pre Hospitalarias']",5,14.736.914-K
+97,141061356,1410,Berta,Portilla Hernández,vesole21@gmail.com,Samu Tarapaca,['Urgencias Pre Hospitalarias'],5,14.106.135-6
+98,174325847,1743,David Damian Andreas,Arce Campos,damian.arce.campos@gmail.com,Samu,"['Técnicas De Redacción Y Ortografía', 'Urgencias Pre Hospitalarias', 'Liderazgo', 'Comunicación Efectiva', 'Gestión Del Desempeño', 'Liderazgo Dirigencial Y Gobernanza', 'Normas En Materia De Gestión Y Desarrollo De Personas']",5,17.432.584-7
+99,184555298,1845,Carla Jacqueline,Cifuentes Opazo,carla.cifuentes04@gmail.com,Servicio De Salud Iquique,['Urgencias Pre Hospitalarias'],5,18.455.529-8
+100,166478600,1664,Jeissy Camila,Romero Hernández,jeissyromero1@gmail.com,Servicio De Salud Iquique,"['Técnicas De Redacción Y Ortografía', 'Urgencias Pre Hospitalarias', 'Liderazgo', 'Comunicación Efectiva', 'Gestión Del Desempeño']",5,16.647.860-K
+101,121566966,1215,Rodolfo,Revillod Torres,rodolforevellod@gmail.com,Samu,"['Urgencias Pre Hospitalarias', 'Normas En Materia De Gestión Y Desarrollo De Personas']",5,12.156.696-6
+102,138669459,1386,Mario,Delucchi Henriquez,viajero_150@hotmail.com,Servicio De Salud Iquique,"['Urgencias Pre Hospitalarias', 'Gestión Del Desempeño']",5,13.866.945-9
+103,158856603,1588,Katherinne Roxana,Cares Placencia,sol.cares@gmail.com,Hospital Alto Hospicio,"['Urgencias Pre Hospitalarias', 'Normas En Materia De Gestión Y Desarrollo De Personas']",5,15.885.660-3
+104,177987786,1779,Carolina Andrea,Soto Hidalgo,carolina.andrea.soto.h@gmail.com,Samu,"['Técnicas De Redacción Y Ortografía', 'Urgencias Pre Hospitalarias', 'Normas En Materia De Gestión Y Desarrollo De Personas']",5,17.798.778-6
+105,156846244,1568,Claudia De Los Ángeles,González Cruz,cgonzalezcruz1970@gmail.com,Servicio De Salud,['Urgencias Pre Hospitalarias'],5,15.684.624-4
+106,178001116,1780,Norma Constanza,Dueñas Peña,n.constanza64@gmail.com,Servicio De Salud,['Urgencias Pre Hospitalarias'],5,17.800.111-6
+107,108807601,1088,Carlos,Gonzalez Solis,superpelaito131@gmail.com,Servicio Salud Iquique,['Urgencias Pre Hospitalarias'],5,10.880.760-1
+109,162455729,1624,Nelson,Arce Weber,nelson.arce.weber@gmail.com,Samu,"['Urgencias Pre Hospitalarias', 'Liderazgo', 'Gestión Del Desempeño']",5,16.245.572-9
+111,194347685,1943,Monserrat María Belén,Aracena González,aracenamonserrat@gmail.com,Servicio De Salud Iquique,['Urgencias Pre Hospitalarias'],5,19.434.768-5
+112,205059733,2050,Luis Alejandro,Adasme Antillanca,luchofresty@gmail.com,Servicio De Salud Iquique,['Urgencias Pre Hospitalarias'],5,20.505.973-3
+113,156846244,1568,Claudia De Los Ángeles,González Cruz,cgonzalezcruz1970@gmail.com,Servicio De Salud Iquique,['Urgencias Pre Hospitalarias'],5,15.684.624-4
+114,178001116,1780,Norma Constanza,Dueñas Peña,n.constanza64@gmail.com,Servicio De Salud Iquique,['Urgencias Pre Hospitalarias'],5,17.800.111-6
+117,150022240,1500,Álvaro,Gonzalez Vera,alvargon1@hotmail.com,Servicio De Salud Iquique,['Urgencias Pre Hospitalarias'],5,15.002.224-K
+118,192247071,1922,Catalina Belén,Ortiz Arevalo,ktitaortiz@gmail.com,Samu,"['Urgencias Pre Hospitalarias', 'Liderazgo', 'Comunicación Efectiva']",5,19.224.707-1
+120,180205330,1802,Constanza Elena,Rosales Veas,constanza.rosalesveas@gmail.com,Cosam Seguel,"['Técnicas De Redacción Y Ortografía', 'Urgencias Pre Hospitalarias', 'Liderazgo', 'Comunicación Efectiva']",5,18.020.533-0
+122,105950110,1059,Jorge Antonio,Contreras Sáez,jjjcccsss@hotmal.es,Hospital Ernesto Torres Galdamez,"['Técnicas De Redacción Y Ortografía', 'Urgencias Pre Hospitalarias', 'Liderazgo', 'Comunicación Efectiva', 'Liderazgo Dirigencial Y Gobernanza', 'Normas En Materia De Gestión Y Desarrollo De Personas']",5,10.595.011-K
+123,105921454,1059,Sandra Jacqueline,Cortes Valenzuela,pabloyjosehijos@hotmail.com,Servicio Salud Iquique,['Urgencias Pre Hospitalarias'],5,10.592.145-4
+124,202470394,2024,Bryan Joseph,Cuellar Garcia,bryancuellargarcia40@gmail.com,Samu,"['Técnicas De Redacción Y Ortografía', 'Urgencias Pre Hospitalarias', 'Liderazgo']",5,20.247.039-4
+125,110338309,1103,Monicas Ximena,Tapia Illanes,monicatapia.69@gmail.com,Samu Iquique,['Urgencias Pre Hospitalarias'],5,11.033.830-9
+126,170135873,1701,Anabella,Echeverria San Martin,anny_15_26@hotmail.com,Servicio De Salud Iquique,"['Urgencias Pre Hospitalarias', 'Liderazgo', 'Comunicación Efectiva']",5,17.013.587-3
+127,176939249,1769,Lorena Ester,Zúñiga Otey,loreezu.01@gmail.com,Cosam Enrique Paris,"['Urgencias Pre Hospitalarias', 'Comunicación Efectiva']",5,17.693.924-9
+128,145000882,1450,Paulo Andres,Vergara Allendes,ploco23@gmail.com,Samu Tarapaca,"['Urgencias Pre Hospitalarias', 'Liderazgo', 'Normas En Materia De Gestión Y Desarrollo De Personas']",5,14.500.088-2
+130,174323291,1743,Fernando Andres,Jorquera Jorquera,tobrano.fj@gmail.com,Servicio De Salud Iquique,"['Urgencias Pre Hospitalarias', 'Liderazgo', 'Comunicación Efectiva', 'Gestión Del Desempeño', 'Liderazgo Dirigencial Y Gobernanza', 'Normas En Materia De Gestión Y Desarrollo De Personas']",5,17.432.329-1
+131,174326029,1743,Ernesto Aramis,Soto Aliaga,sottito90@gmail.com,Servicio De Salud Iquique,['Urgencias Pre Hospitalarias'],5,17.432.602-9
+133,176001933,1760,Luxza,Rivera Alonso,luxzarivera@gmail.com,Hetg,"['Urgencias Pre Hospitalarias', 'Liderazgo']",5,17.600.193-3
+134,106913501,1069,Noemi Ivonne,Requena Gonzalez,noivrego@hotmail.com,Servicio De Salud Iquique,"['Técnicas De Redacción Y Ortografía', 'Urgencias Pre Hospitalarias']",5,10.691.350-1
+135,75572611,7557,Manuel,Aguilera Plaza,nolo_60@hotmail.com,Servicio Salud Iquique,"['Urgencias Pre Hospitalarias', 'Comunicación Efectiva']",5,7.557.261-1
+137,171603960,1716,Daniela Cecilia,Ayala Araya,daniela.ayala.araya@gmail.com,Servicio Salud Iquique,['Urgencias Pre Hospitalarias'],5,17.160.396-K
+139,177997714,1779,Alejandra Soledad,Cáceres Tudela,alcatu1401@gmail.com,Hospital Alto Hospicio - Samu,['Urgencias Pre Hospitalarias'],5,17.799.771-4
+140,166574315,1665,Pablo,Aguilera Arancibia,pablo.aguilera.arancibia@gmail.com,Servicio Salud Iquique,"['Urgencias Pre Hospitalarias', 'Liderazgo']",5,16.657.431-5
+143,138654400,1386,Patricio Guillermo,Berenguela Álvarez,pberenguela7@gmail.com,Servicio De Salud Iquique,['Urgencias Pre Hospitalarias'],5,13.865.440-0
+144,90886967,9088,Ricardo Pascual,Rojas Zuñiga,ricardorojasz@hotmail.com,Samu   Hetg,"['Urgencias Pre Hospitalarias', 'Liderazgo', 'Comunicación Efectiva']",5,9.088.696-7
+146,159248380,1592,Cristian Enrique,Guerrero Ceballos,cr.guerre@gmail.com,Programa Ley De Alcoholes,['Urgencias Pre Hospitalarias'],5,15.924.838-0
+147,99974818,9997,Arnaldo  Segundo,Muñoz Valverde,asmv2006@gmail.com,Hospital Alto Hospicio,['Urgencias Pre Hospitalarias'],5,9.997.481-8
+148,94600537,9460,Eliana Orieta,Gallardo Arce,krononany@gmail.com,Servicio Salud Iquique,['Urgencias Pre Hospitalarias'],5,9.460.053-7
+150,154052038,1540,José Leandro,Almarza Gonzalez,almarzaj90@gmail.com,Samu,['Urgencias Pre Hospitalarias'],5,15.405.203-8
+151,166194717,1661,Débora Natalia Andrea,Valdés Solar,deboravaldes.s@gmail.com,Servicio De Salud Samu,"['Urgencias Pre Hospitalarias', 'Liderazgo', 'Comunicación Efectiva', 'Normas En Materia De Gestión Y Desarrollo De Personas']",5,16.619.471-7
+152,170135873,1701,Anabella,Echeverria,anny_15_26@hotmail.com,Servicio De Salud Iquique,"['Urgencias Pre Hospitalarias', 'Liderazgo', 'Comunicación Efectiva']",5,17.013.587-3
+153,116131412,1161,Hector Javier,Gonzalez Vera,hectorgon1670@gmail.com,Servicio De Salud Iquique,['Urgencias Pre Hospitalarias'],5,11.613.141-2
+154,103516927,1035,Marta Rosa,Fernández Galvez,martaf4543@gmail.com,Samu,['Urgencias Pre Hospitalarias'],5,10.351.692-7
+155,165923820,1659,Camila Paz,Onell Aracena,camila_onell@hotmail.com,Cosam Allende,"['Urgencias Pre Hospitalarias', 'Liderazgo', 'Comunicación Efectiva']",5,16.592.382-0
+157,202478530,2024,Nicole De Los Angeles,Briones Bravo,nicolebriones.b@gmail.com,Servicio De Salud Samu,"['Técnicas De Redacción Y Ortografía', 'Urgencias Pre Hospitalarias', 'Liderazgo', 'Normas En Materia De Gestión Y Desarrollo De Personas']",5,20.247.853-0
+158,175550755,1755,Valeria Constanza,Corrales Soto,valeria.corrales.soto@gmail.com,Samu,['Urgencias Pre Hospitalarias'],5,17.555.075-5
+161,105921454,1059,Sandra,Cortes,pabloyjosehijos@hotmail.com,Servicio Salud Iquique,['Urgencias Pre Hospitalarias'],5,10.592.145-4
+163,228465631,2284,Alex Fernando,Mendoza Reyes,dr_alex_mendoza@hotmail.es,Samu,['Urgencias Pre Hospitalarias'],5,22.846.563-1
+164,162545043,1625,Olivia De Las Mercedes,Reyes Faúndez,olivitareyes.or@gmail.com,Samu,['Urgencias Pre Hospitalarias'],5,16.254.504-3
+165,124393418,1243,Marcela Alejandra,Gahona Pedreros,tens.marcela.gahona@gmail.com,Samu,['Urgencias Pre Hospitalarias'],5,12.439.341-8
+167,103035473,1030,Lucíasonia,Cholele Ayavire,luciasonia.1968@gmail.com,Servicio De Salud Iquique,"['Urgencias Pre Hospitalarias', 'Comunicación Efectiva']",5,10.303.547-3
+170,166574315,1665,Pablo Alejndro,Aguilera Arancibia,pablo.aguilera.arancibia@gmail.com,Samu,"['Técnicas De Redacción Y Ortografía', 'Urgencias Pre Hospitalarias', 'Liderazgo', 'Comunicación Efectiva', 'Gestión Del Desempeño', 'Liderazgo Dirigencial Y Gobernanza', 'Normas En Materia De Gestión Y Desarrollo De Personas']",5,16.657.431-5
+172,188976913,1889,Camila Lisette,Bruna Barraza,CAMILABRUNABARRAZA@GMAIL.COM,Samu,['Urgencias Pre Hospitalarias'],5,18.897.691-3
+173,107209492,1072,Pedro Andres,Gallardo Loreto,pedroandres.gallardoloreto6@gmail.com,Samu,"['Técnicas De Redacción Y Ortografía', 'Urgencias Pre Hospitalarias']",5,10.720.949-2
+174,182621595,1826,Andres,Muñoz González,andresmunozg14@gmail.com,Samu Tarapaca (Comision Servicio Hah),"['Urgencias Pre Hospitalarias', 'Liderazgo']",5,18.262.159-5
+175,160567082,1605,Fabriccio Andres,Araya Cossio,fabriccio.araya.c@gmail.com,Samu,"['Urgencias Pre Hospitalarias', 'Liderazgo']",5,16.056.708-2
+176,174306656,1743,Gonzalo Esteban,Portilla Fibla,Gportillafibla@gmail.com,Samu Tarapaca,['Urgencias Pre Hospitalarias'],5,17.430.665-6
+178,106913501,1069,Noemi Ivonne,Requena Gonzalez,noemirequena71@gmail.com,Samu,"['Técnicas De Redacción Y Ortografía', 'Urgencias Pre Hospitalarias', 'Liderazgo', 'Comunicación Efectiva', 'Gestión Del Desempeño', 'Liderazgo Dirigencial Y Gobernanza', 'Normas En Materia De Gestión Y Desarrollo De Personas']",5,10.691.350-1
+180,162262238,1622,Leslie Makarena,Cabezas Gonzalez,Leslieignacia@hotmail.com,Ssi,['Urgencias Pre Hospitalarias'],5,16.226.223-8
+182,103179742,1031,Jose,Nievas Zarapura,jose.arica66@gmail.com,Servicio De Salud,['Urgencias Pre Hospitalarias'],5,10.317.974-2
+183,156867616,1568,Gloria Nilda,Terrazas Salfate,salfate78@gmail.com,Hospital Ernesto Torres Galdames,"['Urgencias Pre Hospitalarias', 'Liderazgo']",5,15.686.761-6
+184,159696502,1596,Fanny Tamara,Diaz Vasquez,banshee_flakita@hotmail.com,Hospital Ernesto Torres Galdames,"['Urgencias Pre Hospitalarias', 'Liderazgo']",5,15.969.650-2
+185,159696502,1596,Fanny Tamara,Diaz Vasquez,banshee_flakita@hotmail.com,Hospital Ernesto Torres Galdame,"['Urgencias Pre Hospitalarias', 'Liderazgo']",5,15.969.650-2
+186,160567082,1605,Fabriccio Andress,Araya Cossio,farco_01_@hotmail.com,Samu,"['Urgencias Pre Hospitalarias', 'Liderazgo']",5,16.056.708-2
+187,192051169,1920,Daniel Orlando,Pasten Irarrazabal,danielpasten_b4@hotmail.com,Samu Tarapaca,"['Urgencias Pre Hospitalarias', 'Normas En Materia De Gestión Y Desarrollo De Personas']",5,19.205.116-9

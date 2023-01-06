@@ -1,0 +1,5 @@
+Marca temporal|Dirección de correo electrónico|Nombres|Apellidos|RUT|Teléfono|Establecimiento|Tipo de Contrato|Ley: 19.664 Estamento|Ley: 18.834 Estamento|¿Cuál o cuáles cursos le interesan?
+2022-09-15 12:49:49.563|jnavarretem@gmail.com|Jaime Patricio|Navarrete|Marín|995328748|Servicio de Salud Iquique|Contrata||Técnicos Administrativos|Técnicas de redacción y ortografía, Liderazgo, Comunicación Efectiva, Gestión del desempeño, Liderazgo dirigencial y gobernanza, Normas en materia de gestión y desarrollo de personas
+2022-09-15 16:57:41.944|vesole21@gmail.com|Berta|Portilla|1410635-6|933454402|Samu|Contrata||Auxiliares|Urgencias Pre Hospitalarias
+2022-09-22 10:29:33.728|finanzas.ssi@redsalud.gov.cl|ANDREA DE LOS ANGELES|HERNANDEZ VALDES|13.562.454-0|997706005|SERVICIO DE SALUD|Contrata||Técnicos Administrativos|Técnicas de redacción y ortografía
+2022-09-27 10:37:37.284|irene.mnahuel@gmail.com|Irene Fernanda |Muñoz Nahuel |19760724k|983802395|Hospital alto hospicio (samu) |Contrata||Auxiliares|Urgencias Pre Hospitalarias
