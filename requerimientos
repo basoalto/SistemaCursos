@@ -1,0 +1,2 @@
+pip install rut_chile
+py -m pip install pandas
