@@ -23,6 +23,7 @@ datos = datos[-mask]
 
 datosTxt.to_csv('rutsInvalidos.txt', sep = '|', index= False)
 
+
 def formatoTexto(text: str) -> str:
     return text.title().strip()
 
@@ -68,29 +69,18 @@ datosTerminados['lastname'] = datos['Apellidos'].map(lambda name: formatoTexto(n
 datosTerminados['email'] = datos['Dirección de correo electrónico'].map(lambda email: email.strip())
 datosTerminados['institución'] = datos['Establecimiento'].map(lambda name: formatoTexto(name))
 datosTerminados['course1'] = datos['¿Cuál o cuáles cursos le interesan?'].map(lambda name: formatoCursos(name))
+datosTerminados['role1'] = '5'
 datosTerminados['profile_field_RUT'] = datos['RUT'].map(lambda name: formatoRut(name))
 
-
-
-# cursos = datosTerminados['course1']
-
-# cursosNoRepetidos=[]
-# #determinar cursos no repetidos.
-# for curso in cursos:
-#     for nombreCursos in curso.split(','):
-#         if nombreCursos.strip() not in cursosNoRepetidos:
-#             cursosNoRepetidos.append(nombreCursos.strip())
 
 registroAgrupado = {}
 
 for registro in datosTerminados.itertuples():
     for curso in registro.course1:
-        print(pd.Series(registro))
         if curso not in registroAgrupado:
             registroAgrupado[curso] = [registro]
         else:
             registroAgrupado[curso].append(registro)
-
 
 
 for key, value in registroAgrupado.items():
@@ -99,14 +89,3 @@ for key, value in registroAgrupado.items():
     datosIngresados.to_csv(f'{key}.csv', index= False)
 
 datosTerminados.to_csv('datosTerminados.csv', index= False)
-
-
-# username: Rut sin puntos ni guion, reemplazando letra K con un cero
-# password: Primeros 4 dígitos del rut
-# firstname: Primer nombre
-# lastname: Apellidos
-# email: Correo email
-# course1: Nombre del Curso
-# role1: número 5
-# institución: Establecimiento
-# profile_field_RUT: Rut con puntos, guion y letra
